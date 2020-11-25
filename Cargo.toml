@@ -1,0 +1,12 @@
+[package]
+name = "advent-of-code-2020"
+version = "0.1.0"
+authors = ["Alexander Sääf <alexandersaaf95@gmail.com>"]
+edition = "2018"
+
+[lib]
+bench = false
+
+[dependencies]
+aoc-runner = "0.1.0"
+aoc-runner-derive = "0.1.0"
